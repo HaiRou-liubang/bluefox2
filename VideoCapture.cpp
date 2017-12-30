@@ -139,3 +139,7 @@ void init()
 	while(mBluefox2->RequestSingle()==DMR_NO_ERROR){}
     return;
 }
+
+
+
+
